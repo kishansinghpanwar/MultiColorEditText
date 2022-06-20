@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiColorEditText</string>
+    <string name="thanks_for_using_multicoloredittext">Thanks for using MultiColorEditText</string>
+    <string name="change_color">Change Color</string>
+</resources>

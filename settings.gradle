@@ -1,0 +1,3 @@
+include ':multicolor-edittext'
+include ':app'
+rootProject.name = "MultiColorEditText"
